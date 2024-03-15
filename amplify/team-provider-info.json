@@ -1,0 +1,23 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-sharokuws-staging-192050-authRole",
+      "UnauthRoleArn": "arn:aws:iam::815658686339:role/amplify-sharokuws-staging-192050-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::815658686339:role/amplify-sharokuws-staging-192050-authRole",
+      "Region": "eu-north-1",
+      "DeploymentBucketName": "amplify-sharokuws-staging-192050-deployment",
+      "UnauthRoleName": "amplify-sharokuws-staging-192050-unauthRole",
+      "StackName": "amplify-sharokuws-staging-192050",
+      "StackId": "arn:aws:cloudformation:eu-north-1:815658686339:stack/amplify-sharokuws-staging-192050/78a59220-dfdc-11ee-98f6-0ea78ca3d538",
+      "AmplifyAppId": "d3rtboy2uyi2dh"
+    },
+    "categories": {
+      "auth": {
+        "SharokuWS": {}
+      },
+      "storage": {
+        "s3sharokuwsstoragecee6ee87": {}
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "resourceName": "s3sharokuwsstoragecee6ee87",
+  "bucketName": "sharokuws-storage-cee6ee87",
+  "policyUUID": "59741ee3",
+  "storageAccess": "authAndGuest",
+  "guestAccess": [
+    "READ"
+  ],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ]
+}
